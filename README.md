@@ -13,13 +13,7 @@ Fitur simpan dan kembali buku
 
 ## How to use this CRUD Generator : ##
 
-1. Simply put 'harviacode' folder, 'asset' folder and .htaccess file into your project root folder.
-2. Open http://localhost/yourprojectname/harviacode.
-3. Select table and push generate button.
-
-OR 
-
-watch video on https://youtu.be/OHZ7hhRLUZM
+watch video on https://www.youtube.com/watch?v=xh-xVW28DPk
 
 ## FAQ : ##
 
